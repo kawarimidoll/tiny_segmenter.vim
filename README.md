@@ -20,3 +20,7 @@ echo m.parse('Vim はオープンソースであり自由に配布可能です')
 ## Original
 
 [TinySegmenter: Javascriptだけで実装されたコンパクトな分かち書きソフトウェア](http://chasen.org/~taku/software/TinySegmenter/)
+
+## Prior art
+
+https://github.com/shogo82148/TinySegmenterMaker
